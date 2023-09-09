@@ -1,0 +1,1 @@
+python generate_fedtask.py --benchmark covidCT_segmentation --dist 0 --skew 0 --num_clients 4
